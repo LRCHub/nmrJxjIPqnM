@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Love Sick",
+  "base_artist": "Rei",
+  "createdAt": "2025-12-02T20:03:12.882006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "처음이었죠 (Love Sick)",
+      "artist": "소녀시대-태티서",
+      "has_synced": false,
+      "path": "select/01_처음이었죠_(Love_Sick)_소녀시대-태티서.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "처음이었죠 (Love Sick)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": false,
+      "path": "select/02_처음이었죠_(Love_Sick)_Girls'_Generation-TTS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Sick Stomach Ache (Sugar Coated Accident)",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/03_Love_Sick_Stomach_Ache_(Sugar_Coated_Accident)_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stop This Song (Love Sick Melody)",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/04_Stop_This_Song_(Love_Sick_Melody)_Paramore.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stop this Song (Love Sick Melo",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/05_Stop_this_Song_(Love_Sick_Melo_Paramore.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Sleigh Bells",
+      "has_synced": true,
+      "path": "select/06_Love_Sick_Sleigh_Bells.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/07_Love_Sick_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/08_Love_Sick_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Beach Bunny",
+      "has_synced": false,
+      "path": "select/09_Love_Sick_Beach_Bunny.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stop This Song (Love Sick Melody)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/10_Stop_This_Song_(Love_Sick_Melody)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Sick (feat. AR Paisley)",
+      "artist": "Sidhu Moose Wala feat. AR Paisley",
+      "has_synced": true,
+      "path": "select/11_Love_Sick_(feat._AR_Paisley)_Sidhu_Moose_Wala_feat._AR_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Sick (feat. AR Paisley)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/12_Love_Sick_(feat._AR_Paisley)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "FTISLAND",
+      "has_synced": false,
+      "path": "select/13_Love_Sick_FTISLAND.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/14_Love_Sick_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Girls’ Generation-TTS",
+      "has_synced": true,
+      "path": "select/15_Love_Sick_Girls’_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stop This Song (Love Sick Melody)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/16_Stop_This_Song_(Love_Sick_Melody)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "Mari Iijima",
+      "has_synced": false,
+      "path": "select/17_Love_Sick_Mari_Iijima.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "飯島真理",
+      "has_synced": false,
+      "path": "select/18_Love_Sick_飯島真理.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Sick",
+      "artist": "The Fall of Troy",
+      "has_synced": true,
+      "path": "select/19_Love_Sick_The_Fall_of_Troy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Sick",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Sick_Rei.txt"
+    }
+  ]
+}
